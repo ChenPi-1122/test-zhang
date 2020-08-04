@@ -115,4 +115,14 @@
     <MESSAGE value="111" />
     <option name="LAST_COMMIT_MESSAGE" value="111" />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="508" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596548880142">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="508" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1596548880142" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1596548907780">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1596548907780" />
+  </component>
 </project>
